@@ -2,7 +2,7 @@
 <h1>💪Projeto Entra21 Academia💪</h1>
 
 <h2> Status: Em desenvolvimento⚠️</h2>
-<h2> Obs: Esse repositório serve para testes de codigos para a atulização do projeto!⚠️</h2>
+<h2> Obs: Esse repositório serve para testes de codigos para a atulização do projeto, ou seja, não é o projeto oficial!⚠️</h2>
  
  <h3>Sistema de Academia</h3>
 
